@@ -18,9 +18,9 @@ Verá também quaisquer erros de cotão na consola.
 - Tríade do React(Visual, Funcional e Estado);
 - Componentes, Props e Children;
 
-###Tecnologia que utilizei:
-- HTML;
-- CSS;
+### Tecnologias que Utilizei:
+- HTML5;
+- CSS3;
 - JAVASCRIPT;
 - REACT;
 
