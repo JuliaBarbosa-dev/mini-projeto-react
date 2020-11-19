@@ -20,7 +20,6 @@ Verá também quaisquer erros de cotão na consola.
 
 ### Tecnologias que Utilizei:
 - HTML5;
-- CSS3;
 - JAVASCRIPT;
 - REACT;
 
